@@ -6,5 +6,5 @@
 **Supermarket sales analysis**
 [Project 3:Supermarket analysis](https://github.com/nafiya1236/data_analytics/blob/main/student%20performance%20ML.ipynb)\
 **Healthcare analysis**
-[Project 4:Healthcare analysis](https://github.com/nafiya1236/data_analytics/blob/main/student%20performance%20ML.ipynb)\
+[Project 4:Healthcare analysis](https://github.com/nafiya1236/Power-BI/blob/main/blinkit%20projct.pbix)\
 ****
