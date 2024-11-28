@@ -1,7 +1,10 @@
 # Power-BI
-**Data visualization on Udemy course**
-[Project 1:Data visualisation](https://github.com/nafiya1236/data_analytics/blob/main/udemy%20course%20P.ipynb)\
-This project is based on Udemy course.Data was taken from kaggle repository\
-**Machine Learning on Student Performance**
-[Project 2:Machine Learning](https://github.com/nafiya1236/data_analytics/blob/main/student%20performance%20ML.ipynb)\
-This project is based on students performance.Data was taken from kaggle repository
+**Zephyr Technologies sales and HR analysis**
+[Project 1:Sales and HR analysis](https://github.com/nafiya1236/data_analytics/blob/main/udemy%20course%20P.ipynb)\
+**Blinkit sales analysis**
+[Project 2:Blinkit analysis](https://github.com/nafiya1236/data_analytics/blob/main/student%20performance%20ML.ipynb)\
+**Supermarket sales analysis**
+[Project 3:Supermarket analysis](https://github.com/nafiya1236/data_analytics/blob/main/student%20performance%20ML.ipynb)\
+**Healthcare analysis**
+[Project 4:Healthcare analysis](https://github.com/nafiya1236/data_analytics/blob/main/student%20performance%20ML.ipynb)\
+****
