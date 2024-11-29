@@ -8,7 +8,7 @@ Comprehensive HR and Sales Analysis: Insights into employee performance, recruit
 Advanced DAX queries to create custom measures and calculations.
 Interactive dashboards with visually engaging charts, graphs, and KPIs for actionable insights.\
 **Blinkit sales analysis**
-[Project 2:Blinkit analysis](https://github.com/nafiya1236/Power-BI/blob/main/blinkit%20projct.pbix)
+[Project 2:Blinkit analysis](https://github.com/nafiya1236/Power-BI/blob/main/blinkit%20projct.pbix)\
 This Power BI dashboard offers an in-depth analysis of grocery store sales performance, customer behavior, product trends,Sales Performance,Product Categories and Outlet Summery.\
 **Supermarket sales analysis**
 [Project 3:Supermarket analysis](https://github.com/nafiya1236/Power-BI/blob/main/sales%20analysis%20projct.pbix)\
